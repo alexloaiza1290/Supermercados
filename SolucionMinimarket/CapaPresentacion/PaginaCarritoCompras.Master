@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="PaginaCarritoCompras.master.cs" Inherits="CapaPresentacion.PaginaCarritoCompras" %>
+<link href="Content/bootstrapX.css" rel="stylesheet" />
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+  <title>Carrito de Compras</title>
+    <link href="Style_bootstrap/css/bootstrap.css" rel="stylesheet" />
+    <link href="Style_bootstrap/css/Style.css" rel="stylesheet" />
+    <script src="Style_bootstrap/js/bootstrap.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+   
+</head>
+<body>
+    <form id="form1" runat="server">
+  
+        <div class="fondo_cabecera">
+            <div class="container">
+            <div >
+                &nbsp;</div>
+
+
+        </div>
+        </div>
+        <div class="fondo_menu">
+            <div class="container"> 
+                <nav class="navbar navbar-inverse">
+                  <div class="container-fluid">
+                    
+                    <ul class="nav navbar-nav">
+                      <li class="active"><a href="frmPrincipal.aspx">INICIO</a></li>
+                      <li><a href="frmCatalogo.aspx">CATALOGO</a></li>
+                      <li><a href="frmPrincipal.aspx">CERRAR SESIÓN </a></li>
+                      
+                    </ul>
+                  </div>
+                </nav>
+                 
+            </div>
+        </div>
+        <div class="container" style="height:auto">
+            <div>
+                <asp:Label ID="lblNombreCliente" runat="server" Text="Label" class="tituloCarrito"></asp:Label></div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+         
+                </asp:ContentPlaceHolder>
+        </div>
+        <div class="fondo_pie">
+            <div class="container">
+                <div class="row">
+                     <div class="col-md-4">Copyright © 2018</div>
+                     <div class="col-md-4"></div>
+                     <div class="col-md-4"></div>
+                </div>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

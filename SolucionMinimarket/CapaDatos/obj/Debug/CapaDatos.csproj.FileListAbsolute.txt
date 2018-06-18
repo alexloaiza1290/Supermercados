@@ -1,0 +1,83 @@
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.xml
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.xml
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.xml
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csprojResolveAssemblyReference.cache
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\MySql.Data.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.xml
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb

@@ -1,0 +1,5 @@
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaEntidad\bin\Debug\CapaEntidad.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaEntidad\bin\Debug\CapaEntidad.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.pdb

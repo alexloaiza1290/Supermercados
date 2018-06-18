@@ -1,0 +1,230 @@
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\AjaxControlToolkit.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\AjaxControlToolkit.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.xml
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\AjaxControlToolkit.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\AjaxControlToolkit.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.xml
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\AjaxControlToolkit.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.xml
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\AjaxControlToolkit.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\AjaxControlToolkit.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\EntityFramework.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojResolveAssemblyReference.cache
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\NWebsec.Core.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\NWebsec.Core.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\NWebsec.Owin.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Owin.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\NWebsec.Owin.xml
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\csc.exe
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\vbc.exe
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll.config
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaPresentacion.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\AjaxControlToolkit.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaEntidad.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\NWebsec.Core.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\NWebsec.Owin.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Owin.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\MySql.Data.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaEntidad.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaNegocio.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\NWebsec.Core.xml
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\NWebsec.Owin.xml
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\bin\CapaDatos.dll.config
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csprojAssemblyReference.cache
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CoreCompileInputs.cache
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.csproj.CopyComplete
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaPresentacion\obj\Debug\CapaPresentacion.pdb

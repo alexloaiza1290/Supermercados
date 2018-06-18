@@ -1,0 +1,142 @@
+﻿body {
+}
+.fondo_menu {
+    background-color:#222222;
+}
+.fondo_pie {
+    background-color:#222222;
+    height:40px;
+    color:#fff;
+}
+.fondo_cabecera {
+    background-color:#EDEDED;
+}
+.fondo_login {
+    background-color:#EDEDED;
+    border-radius:5px;
+    height:350px;
+    width:300px;
+    margin-top:50px;
+}
+.titulo_auti {
+    color:#ff6a00;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:20px;
+    padding-top:30px;
+    padding-left:15px;
+}
+.inpuxt_name {
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.titulo_usu {
+    font-family:Verdana;
+    font-size:15px;
+    margin-left: 20px;
+}
+.boton {
+    padding-left:20px;
+}
+.letras_cuadro {
+    font-family:'Century Gothic';
+    font-size:15px;
+    color:#FF4600;
+    font-weight:bold;
+}
+.letras_cuadroSut {
+    font-family:'Century Gothic';
+    font-size:14px;
+    color:#222;
+    
+}
+
+.tituloCarrito {
+    font-family:'Century Gothic';
+    font-size:18px;
+    color:#FF4600;
+    font-weight:bold;
+    padding-top:20px;
+    padding-left:20px;
+}
+.SubtituloCarrito {
+    font-family:'Century Gothic';
+    font-size:16px;
+    color:#FF4600;
+    font-weight:bold;
+    padding-top:20px;
+    padding-left:20px;
+}
+.SubtituloCarritoMonto {
+    font-family:'Century Gothic';
+    font-size:large;
+    color:#FF0000;
+    font-weight:bold;
+    padding-top:20px;
+    padding-left:5px;
+}
+.letrasCa {
+    font-family:'Century Gothic';
+    font-size:18px;
+    color:#FF4600;
+    font-weight:bold;
+    padding-top:20px;
+    padding-left:120px;
+}
+
+/*Estilo para la Grid View*/
+.mGrid {  
+    width: 100%;  
+    background-color: #fff;  
+    margin: 5px 0 10px 0;  
+   /* border: solid 1px #525252;  */
+    border-collapse: collapse;  
+    font-family:'Century Gothic';
+     font-size: 16px;
+}  
+  
+    .mGrid td {  
+        padding: 2px;  
+        border: solid 1px #c1c1c1;  
+        color: #717171;  
+    }  
+  
+    .mGrid th {  
+        padding: 4px 2px;  
+        color: #fff;  
+        background: #FF4600 url(grd_head.png) repeat-x top;  
+        border-left: solid 1px #FFA000;  
+        font-size: 16px;  
+        font-family:'Century Gothic';
+    }  
+  
+    .mGrid .alt {  
+        background: #fcfcfc url(grd_alt.png) repeat-x top;  
+    }  
+  
+    .mGrid .pgr {  
+        background: #424242 url(grd_pgr.png) repeat-x top;  
+    }  
+  
+        .mGrid .pgr table {  
+            margin: 5px 0;  
+        }  
+  
+        .mGrid .pgr td {  
+            border-width: 0;  
+            padding: 0 6px;  
+            border-left: solid 1px #666;  
+            font-weight: bold;  
+            color: #fff;  
+            line-height: 12px;  
+        }  
+  
+        .mGrid .pgr a {  
+            color: #666;  
+            text-decoration: none;  
+        }  
+  
+            .mGrid .pgr a:hover {  
+                color: #000;  
+                text-decoration: none;  
+            }  

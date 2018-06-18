@@ -1,0 +1,76 @@
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.pdb
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.pdb
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.xml
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
+F:\Cali17\Ciclo III\WCF\Trabajo\Carrito de Compras_Capas\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.pdb
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.xml
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
+\\10.2.1.197\Alejandria\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.pdb
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.pdb
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.xml
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
+H:\Archivos2017\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.pdb
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.xml
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
+G:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.pdb
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\EntityFramework.xml
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csprojResolveAssemblyReference.cache
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
+I:\Cali17\Ciclo III\WCF\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\MySql.Data.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll.config
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb

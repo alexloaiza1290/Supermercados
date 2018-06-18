@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props" Condition="Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8AA88381-179C-48BD-8CD9-2B084400169F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CapaPresentacion</RootNamespace>
+    <AssemblyName>CapaPresentacion</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+    <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=17.1.1.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AjaxControlToolkit.17.1.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="NWebsec.Core, Version=1.6.0.0, Culture=neutral, PublicKeyToken=3613da5f958908a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NWebsec.Core.1.6.0\lib\45\NWebsec.Core.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="NWebsec.Owin, Version=2.3.1.0, Culture=neutral, PublicKeyToken=3613da5f958908a1, processorArchitecture=MSIL">
+      <HintPath>..\packages\NWebsec.Owin.2.3.1\lib\45\NWebsec.Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Owin, Version=1.0.0.0, Culture=neutral, PublicKeyToken=f0ebd12fd5e55cc5, processorArchitecture=MSIL">
+      <HintPath>..\packages\Owin.1.0\lib\net40\Owin.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Content\bootstrapX.css" />
+    <Content Include="Content\bootstrapX.min.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="frmAccesoCliente.aspx" />
+    <Content Include="frmCarrito.aspx" />
+    <Content Include="frmCatalogo.aspx" />
+    <Content Include="frmLoginAdministrador.aspx" />
+    <Content Include="frmMantenimientoCategoria.aspx" />
+    <Content Include="frmMantenimientoProductos.aspx" />
+    <Content Include="frmPrincipal.aspx" />
+    <Content Include="imagenes\Aceite.jpg" />
+    <Content Include="imagenes\arroz.jpg" />
+    <Content Include="imagenes\Atun.jpg" />
+    <Content Include="imagenes\azucar.jpg" />
+    <Content Include="imagenes\boton-compra.png" />
+    <Content Include="imagenes\btnCarrito.png" />
+    <Content Include="imagenes\cabecera.png" />
+    <Content Include="imagenes\Cafes.jpg" />
+    <Content Include="imagenes\carro-01.png" />
+    <Content Include="imagenes\cocoa.jpg" />
+    <Content Include="imagenes\descarga.png" />
+    <Content Include="imagenes\fideo.jpg" />
+    <Content Include="imagenes\free_market.jpg" />
+    <Content Include="imagenes\hotdogPakete.jpg" />
+    <Content Include="imagenes\images.jpg" />
+    <Content Include="imagenes\images.png" />
+    <Content Include="imagenes\incakola.jpg" />
+    <Content Include="imagenes\jamonada-de-pollo.jpg" />
+    <Content Include="imagenes\leche.jpg" />
+    <Content Include="imagenes\logo minimarket la viña Final Full color.jpg" />
+    <Content Include="imagenes\mandarinas.jpg" />
+    <Content Include="imagenes\mantequilla.jpg" />
+    <Content Include="imagenes\manzana.jpg" />
+    <Content Include="imagenes\mayonesa.jpg" />
+    <Content Include="imagenes\minimarketnegro.jpg" />
+    <Content Include="imagenes\pepsi.jpg" />
+    <Content Include="imagenes\pilsencallao.jpg" />
+    <Content Include="imagenes\pilsentrujillo.jpg" />
+    <Content Include="imagenes\platano.jpg" />
+    <Content Include="imagenes\queso.jpg" />
+    <Content Include="imagenes\RRHH.jpg" />
+    <Content Include="imagenes\shutterstock_108585317.jpg" />
+    <Content Include="imagenes\tequila.jpg" />
+    <Content Include="imagenes\uva.jpg" />
+    <Content Include="imagenes\vino.jpg" />
+    <Content Include="packages.config" />
+    <Content Include="Site.Master" />
+    <Content Include="Principal.Master" />
+    <Content Include="PaginaCarritoCompras.Master" />
+    <Content Include="Style_bootstrap\css\Style.css" />
+    <Content Include="Style_bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Style_bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Style_bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Style_bootstrap\fonts\glyphicons-halflings-regular.woff2" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="frmMantenimientoClientes.aspx" />
+    <Content Include="Style_bootstrap\css\bootstrap-theme.css" />
+    <Content Include="Style_bootstrap\css\bootstrap.css" />
+    <Content Include="Style_bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Style_bootstrap\js\bootstrap.js" />
+    <Content Include="Style_bootstrap\js\npm.js" />
+    <Content Include="Web.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAccesoCliente.aspx.cs">
+      <DependentUpon>frmAccesoCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmAccesoCliente.aspx.designer.cs">
+      <DependentUpon>frmAccesoCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCarrito.aspx.cs">
+      <DependentUpon>frmCarrito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCarrito.aspx.designer.cs">
+      <DependentUpon>frmCarrito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCatalogo.aspx.cs">
+      <DependentUpon>frmCatalogo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCatalogo.aspx.designer.cs">
+      <DependentUpon>frmCatalogo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmLoginAdministrador.aspx.cs">
+      <DependentUpon>frmLoginAdministrador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmLoginAdministrador.aspx.designer.cs">
+      <DependentUpon>frmLoginAdministrador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoCategoria.aspx.cs">
+      <DependentUpon>frmMantenimientoCategoria.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoCategoria.aspx.designer.cs">
+      <DependentUpon>frmMantenimientoCategoria.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoClientes.aspx.cs">
+      <DependentUpon>frmMantenimientoClientes.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoClientes.aspx.designer.cs">
+      <DependentUpon>frmMantenimientoClientes.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantenimientoProductos.aspx.cs">
+      <DependentUpon>frmMantenimientoProductos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantenimientoProductos.aspx.designer.cs">
+      <DependentUpon>frmMantenimientoProductos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmPrincipal.aspx.cs">
+      <DependentUpon>frmPrincipal.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal.aspx.designer.cs">
+      <DependentUpon>frmPrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PaginaCarritoCompras.Master.cs">
+      <DependentUpon>PaginaCarritoCompras.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PaginaCarritoCompras.Master.designer.cs">
+      <DependentUpon>PaginaCarritoCompras.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.Master.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Principal.Master.designer.cs">
+      <DependentUpon>Principal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CapaEntidad\CapaEntidad.csproj">
+      <Project>{e9ec1a3c-954c-49fb-aad6-168807287a76}</Project>
+      <Name>CapaEntidad</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CapaNegocio\CapaNegocio.csproj">
+      <Project>{9c810bd3-95cc-45f6-899e-edf7e8caeb0e}</Project>
+      <Name>CapaNegocio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>15776</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:15056/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.Net.Compilers.1.0.0\build\Microsoft.Net.Compilers.props'))" />
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.1.0.0\build\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
