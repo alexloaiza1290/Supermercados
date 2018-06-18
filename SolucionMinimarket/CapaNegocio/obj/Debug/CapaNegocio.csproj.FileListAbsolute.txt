@@ -74,3 +74,16 @@ D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarke
 D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
 D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
 D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\bin\Debug\MySql.Data.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\bin\Debug\CapaDatos.dll.config
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csprojAssemblyReference.cache
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.csproj.CopyComplete
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaNegocio\obj\Debug\CapaNegocio.pdb

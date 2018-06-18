@@ -81,8 +81,8 @@ namespace CapaDatos
                 while (dataReader.Read())
                 {
                     cliente.Id = Convert.ToInt32(dataReader["id_cliente"].ToString());
-                    cliente.Nombres = dataReader["nombre"].ToString();
-                    cliente.Apellidos = dataReader["apellido"].ToString();
+                    cliente.Nombres = dataReader["nombres"].ToString();
+                    cliente.Apellidos = dataReader["apellidos"].ToString();
                     cliente.Direccion = dataReader["direccion"].ToString();
                     cliente.Telefono = dataReader["telefono"].ToString();
                     cliente.Dni = dataReader["dni"].ToString();
@@ -131,7 +131,7 @@ namespace CapaDatos
         public int EliminarCliente(int cod)
         {
             connection.Open();
-            MySqlCommand command = new MySqlCommand("sp_autenticar_clientes", connection);
+            MySqlCommand command = new MySqlCommand("sp_eliminar_cliente", connection);
             command.CommandType = CommandType.StoredProcedure;
             command.Parameters.AddWithValue("p_id", cod);
             command.ExecuteNonQuery();

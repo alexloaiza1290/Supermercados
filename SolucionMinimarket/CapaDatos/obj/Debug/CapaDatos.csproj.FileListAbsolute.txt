@@ -81,3 +81,18 @@ D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarke
 D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
 D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
 D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll.config
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\MySql.Data.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.xml
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaDatos\obj\Debug\CapaDatos.pdb

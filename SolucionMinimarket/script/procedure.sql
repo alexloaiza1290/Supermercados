@@ -92,6 +92,10 @@ delete from cliente where id_cliente=p_id;
 create procedure sp_listar_cliente()
 select id_cliente, nombres, apellidos, direccion,telefono,dni,email,usuario,clave from cliente;
 
+create procedure sp_buscar_cliente_codigo(
+in p_id int)
+select id_cliente, nombres, apellidos, direccion,telefono,dni,email,usuario,clave from cliente
+where id_cliente=p_id;
 -- procedimiento para productos
 
 create procedure sp_listar_catalogo_productos()

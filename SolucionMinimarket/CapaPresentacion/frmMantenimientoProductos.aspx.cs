@@ -54,7 +54,7 @@ namespace CapaPresentacion
             p.Puntos = Convert.ToDouble(txtPrecio.Text);
             p.Stock = Convert.ToInt32(txtStock.Text);
             p.Foto = txtFoto.Text;
-            p.Categoria.Id = Convert.ToInt32( ddlCategoria.SelectedValue.ToString());
+            p.Categoria.Id = 1;// Convert.ToInt32( ddlCategoria.SelectedValue.ToString());
         }
 
         public int nuevoProd()

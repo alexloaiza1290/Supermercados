@@ -20,6 +20,10 @@ namespace CapaNegocio
         {
             return da.ActualizarCategoria(cat);
         }
+        public List<Categoria> ListarCategorias()
+        {
+            return da.ListarCategorias();
+        }
         public DataTable ListarCategoria()
         {
             return da.ListarCategoria();

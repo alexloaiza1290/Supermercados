@@ -39,26 +39,30 @@ namespace CapaDatos
             connection.Close();
             return 1;
         }
+        public List<Categoria> ListarCategorias()
+        {
+            List<Categoria> lstCategoria = new List<Categoria>();
+            connection.Open();
+            MySqlCommand command = new MySqlCommand("sp_listar_categoria", connection);
+            command.CommandType = CommandType.StoredProcedure;
+            MySqlDataReader dataReader = command.ExecuteReader();
+
+            if (dataReader.HasRows)
+            {
+                while (dataReader.Read())
+                {
+                    Categoria categoria = new Categoria();
+                    categoria.Id = Convert.ToInt32(dataReader["id_categoria"]);
+                    categoria.Nombre = dataReader["nombre"].ToString();
+                    categoria.Descripcion = dataReader["descripcion"].ToString();
+                    lstCategoria.Add(categoria);
+                }
+            }
+            connection.Close();
+            return lstCategoria;
+        }
         public DataTable ListarCategoria()
         {
-            //List<Categoria> lstCategoria = new List<Categoria>();
-            connection.Open();
-            //MySqlCommand command = new MySqlCommand("sp_listar_categoria", connection);
-            //command.CommandType = CommandType.StoredProcedure;
-            //MySqlDataReader dataReader = command.ExecuteReader();
-
-            //if (dataReader.HasRows)
-            //{
-            //    while (dataReader.Read())
-            //    {
-            //        Categoria categoria = new Categoria();
-            //        categoria.Id = Convert.ToInt32(dataReader["id_categoria"].ToString());
-            //        categoria.Nombre = dataReader["nombre"].ToString();
-            //        categoria.Descripcion = dataReader["descripcion"].ToString();
-            //        lstCategoria.Add(categoria);
-            //    }
-            //}
-
             DataTable dtDatos = new DataTable();
 
             // Se crea un MySqlAdapter para obtener los datos de la base

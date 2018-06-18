@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.ComponentModel;
 using System.Data;
 using System.Linq;
 using System.Web;
@@ -12,13 +13,11 @@ namespace CapaPresentacion
 {
     public partial class frmMantenimientoCategoria : System.Web.UI.Page
     {
-        List<Categoria> lstCat = new List<Categoria>();
         CategoriaBL negCat = new CategoriaBL();
-        Categoria c = new Categoria();
         DataTable dt = new DataTable();
+        Categoria c = new Categoria();
         private void CargarCategoria()
         {
-            //lstCat = negCat.ListarCategoria();
             dt = negCat.ListarCategoria();
             grvDatos.DataSource = dt;
             grvDatos.DataBind();
@@ -32,7 +31,7 @@ namespace CapaPresentacion
         }
         public void AsignarEntradas()
         {
-            //c.Id = Convert.ToInt32(txtCodigo.Text);
+            c.Id = Convert.ToInt32(txtCodigo.Text);
             c.Nombre = txtNombre.Text;
             c.Descripcion = txtDescripcion.Text;
         }
@@ -55,7 +54,7 @@ namespace CapaPresentacion
         protected void btnBuscar_Click(object sender, EventArgs e)
         {
             BuscarCategoria();
-            //btnGuardar.Text = "Actualizar";
+            btnGuardar.Text = "Actualizar";
         }
 
         protected void btnNuevo_Click(object sender, EventArgs e)
@@ -102,6 +101,7 @@ namespace CapaPresentacion
         protected void btnEliminar_Click(object sender, EventArgs e)
         {
             EliminarCategoria();
+            Limpiar();
             CargarCategoria();
         }
     }

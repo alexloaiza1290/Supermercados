@@ -26,7 +26,7 @@ namespace CapaPresentacion
         }
         private void AsignarClientes()
         {
-            //c.Id = int.Parse(txtIdCliente.Text);
+            c.Id = int.Parse(txtIdCliente.Text);
             c.Nombres = txtNombre.Text;
             c.Apellidos = txtApellido.Text;
             c.Direccion = txtDireccion.Text;
@@ -52,11 +52,11 @@ namespace CapaPresentacion
             LimpiarCliente();
             return rpta;
         }
-        private void BuscarCliente(int cod)
+        private void BuscarCliente()
         {
             Cliente cli = new Cliente();
-            cli = negCliente.BuscarClienteCodigo(cod);
-            txtIdCliente.Text = negCliente.GenerarCodigoCliente().ToString();
+            cli = negCliente.BuscarClienteCodigo(Convert.ToInt32(txtIdCliente.Text));
+            txtIdCliente.Text = cli.Id.ToString();
             txtNombre.Text = cli.Nombres;
             txtApellido.Text = cli.Apellidos;
             txtDireccion.Text = cli.Direccion;
@@ -127,7 +127,7 @@ namespace CapaPresentacion
 
         protected void btnBuscar_Click(object sender, EventArgs e)
         {
-            BuscarCliente(Convert.ToInt32(txtIdCliente.Text));
+            BuscarCliente();
             btnGuardar.Text = "Actualizar";
         }
         protected void btnEliminar_Click(object sender, EventArgs e)
@@ -135,6 +135,8 @@ namespace CapaPresentacion
             int rpta = 0;
             rpta = negCliente.EliminarCliente(Convert.ToInt32(txtIdCliente.Text));
             LimpiarCliente();
+            CargarClientes();
+
         }
 
     }
