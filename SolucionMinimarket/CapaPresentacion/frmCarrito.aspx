@@ -17,18 +17,18 @@
         
     </asp:UpdatePanel>
     <div class="tituloCarrito">
-        Detalle de Pedido: Contenido de Carrito de Compras
+        Detalle de Pedido: Contenido de canje de puntos
     </div>
     <br />
     <div>
         <asp:GridView ID="grvPedido" runat="server" AutoGenerateColumns="False" Width="100%" CellPadding="4" ForeColor="#333333" GridLines="None" OnRowDeleting="grvPedido_RowDeleting" CssClass="mGrid">
             <AlternatingRowStyle BackColor="White" />
             <Columns>
-                <asp:BoundField DataField="Codigo" HeaderText="Codigo" >
+                <asp:BoundField DataField="id_detalle_pedido" HeaderText="Codigo" >
                 <ItemStyle HorizontalAlign="Center" />
                 </asp:BoundField>
-                <asp:BoundField DataField="Descripcion" HeaderText="Descripción" />
-                <asp:BoundField DataField="Precio" HeaderText="Precio" >
+                <asp:BoundField DataField="descripcion" HeaderText="Descripción" />
+                <asp:BoundField DataField="puntos" HeaderText="Puntos" >
                 <HeaderStyle HorizontalAlign="Center" />
                 </asp:BoundField>
                 <asp:TemplateField HeaderText="Cantidad">
@@ -36,7 +36,7 @@
                         <asp:TextBox ID="txtCantidad" runat="server"></asp:TextBox>
                     </ItemTemplate>
                 </asp:TemplateField>
-                <asp:BoundField DataField="Total" HeaderText="Importe" >
+                <asp:BoundField DataField="total" HeaderText="Total" >
                  <HeaderStyle HorizontalAlign="Center" />
                 </asp:BoundField>
                  <asp:TemplateField HeaderText="Operación">
@@ -61,7 +61,7 @@
             <SortedDescendingHeaderStyle BackColor="#4870BE" />
         </asp:GridView>
         <br />
-        <asp:Button ID="btnCalcular" runat="server" Text="Calcular Sub Total" OnClick="btnCalcular_Click"  CssClass="btn btn-warning"/> <span class="SubtituloCarrito"> importe a pagar es: S/. </span><span class="SubtituloCarritoMonto"><asp:Label ID="lblTotal" runat="server" ></asp:Label></span>
+        <asp:Button ID="btnCalcular" runat="server" Text="Calcular Sub Total" OnClick="btnCalcular_Click"  CssClass="btn btn-warning"/> <span class="SubtituloCarrito"> cantidad de puntos: </span><span class="SubtituloCarritoMonto"><asp:Label ID="lblTotal" runat="server" ></asp:Label></span>
         <br />
     </div>
     <div>

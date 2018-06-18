@@ -46,7 +46,7 @@
                                 <asp:Label ID="lblDescripcion" runat="server" Text='<%#Eval("descripcion") %>'></asp:Label>
                                 <br />
                                 <span class="letras_cuadro">Puntos:</span>
-                                <asp:Label ID="lblPrecio" runat="server" Text='<%#Eval("puntos") %>'></asp:Label>
+                                <asp:Label ID="lblPuntos" runat="server" Text='<%#Eval("puntos") %>'></asp:Label>
                                 <br />
                                 <span class="letras_cuadro">Stock:</span>
                                 <asp:Label ID="lblStock" runat="server" Text='<%#Eval("stock") %>'></asp:Label>

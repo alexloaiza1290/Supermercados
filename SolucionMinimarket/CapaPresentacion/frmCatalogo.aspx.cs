@@ -23,17 +23,17 @@ namespace CapaPresentacion
         {
             //lstProd = negProd.ListarCatalogoProductos();
             dt = negProd.ListarCatalogoProductos();
-            var lista = from item in lstProd
-                        select new
-                        {
-                           item.Id ,
-                            item.Nombre,
-                            item.Descripcion,
-                            item.Puntos,
-                            item.Stock,
-                            item.Foto,
-                           Categorias= item.Categoria.Nombre  
-                        };
+            //var lista = from item in lstProd
+            //            select new
+            //            {
+            //               item.Id ,
+            //                item.Nombre,
+            //                item.Descripcion,
+            //                item.Puntos,
+            //                item.Stock,
+            //                item.Foto,
+            //               Categorias= item.Categoria.Nombre  
+            //            };
             DataList1.DataSource = dt;
             DataList1.DataBind();
         }
@@ -68,8 +68,8 @@ namespace CapaPresentacion
             fila[0] = cod;
             fila[1] = des;
             fila[2] = puntos;
-            fila[3] = (int)cantidad;
-            fila[4] = total;
+            //fila[3] = (int)cantidad;
+            fila[3] = total;
             carrito.Rows.Add(fila);
             Session["pedido"] = carrito;
         }
@@ -87,6 +87,7 @@ namespace CapaPresentacion
                 nom = ((Label)this.DataList1.SelectedItem.FindControl("lblNombre")).Text;
                 des = ((Label)this.DataList1.SelectedItem.FindControl("lblDescripcion")).Text;
                 puntos = System.Convert.ToInt32(((Label)this.DataList1.SelectedItem.FindControl("lblPuntos")).Text);
+
                 AgregarItem(cod, nom + " " + des, puntos);
 
                 lblProductoAgregado.Text = "Producto Agregado: " + nom;

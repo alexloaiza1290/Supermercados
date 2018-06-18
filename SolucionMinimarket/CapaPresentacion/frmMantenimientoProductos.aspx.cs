@@ -52,7 +52,7 @@ namespace CapaPresentacion
             p.Id = Convert.ToInt32(txtIdProducto.Text);
             p.Nombre = txtNombre.Text;
             p.Descripcion = txtDescripcion.Text;
-            p.Puntos = Convert.ToDouble(txtPrecio.Text);
+            p.Puntos = Convert.ToInt32(txtPrecio.Text);
             p.Stock = Convert.ToInt32(txtStock.Text);
             p.Foto = txtFoto.Text;
             //Categoria cat=new Categoria();

@@ -108,4 +108,17 @@ on p.id_categoria=c.id_categoria;
 create procedure sp_listar_productos()
 select id_producto,nombre, descripcion,puntos,stock from productos;
 
-call sp_listar_productos;
+
+
+create procedure sp_insertar_producto(
+p_nombre varchar(100),
+p_descripcion varchar(100),
+p_puntos int,
+p_stock int,
+p_foto varchar(100),
+p_id_categoria int
+)
+insert into productos(nombre, descripcion,puntos,stock,foto,id_categoria) 
+values (p_nombre,p_descripcion, p_puntos, p_stock, p_foto, p_id_categoria);
+
+

@@ -129,7 +129,7 @@
                 </tr>
                 <tr style="height:50px;">
                     <td>
-                        <asp:Label ID="Label9" runat="server" Text="Precio:"></asp:Label>
+                        <asp:Label ID="Label9" runat="server" Text="Puntos:"></asp:Label>
                     </td>
                     <td class="auto-style10">
                         <asp:TextBox ID="txtPrecio" runat="server" CssClass="auto-style8" Width="126px"></asp:TextBox>
@@ -138,9 +138,6 @@
                     </td>
                     <td colspan="2">
                         <asp:Label ID="Label10" runat="server" Text="Stock:"></asp:Label>
-                    </td>
-                    <td colspan="2">
-                        <asp:Label ID="lblPrueba" runat="server" Text="prueba:"></asp:Label>
                     </td>
                     <td class="auto-style16">
                         <asp:TextBox ID="txtStock" runat="server" Height="30px" Width="73px" CssClass="form-control"></asp:TextBox>

@@ -16,7 +16,17 @@ namespace CapaDatos
         public int InsertarProducto(Producto prod)
         {
             Producto pr = new Producto();
-            
+            connection.Open();
+            MySqlCommand cmd = new MySqlCommand("sp_insertar_producto",connection);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("p_nombre",prod.Nombre);
+            cmd.Parameters.AddWithValue("p_descripcion",prod.Descripcion);
+            cmd.Parameters.AddWithValue("p_puntos",prod.Puntos);
+            cmd.Parameters.AddWithValue("p_stock",prod.Stock);
+            cmd.Parameters.AddWithValue("p_foto",prod.Foto);
+            cmd.Parameters.AddWithValue("p_id_categoria",prod.Categoria.Id);
+            cmd.ExecuteNonQuery();
+            connection.Close();
             return 1;
         }
         public int ActualizarProducto(Producto prod)
