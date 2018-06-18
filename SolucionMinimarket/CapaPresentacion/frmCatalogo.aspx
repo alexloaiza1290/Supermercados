@@ -50,10 +50,7 @@
                                 <br />
                                 <span class="letras_cuadro">Stock:</span>
                                 <asp:Label ID="lblStock" runat="server" Text='<%#Eval("stock") %>'></asp:Label>
-                                <br />
-                                <span class="letras_cuadro">Foto:</span>
-                                <asp:Label ID="lblFoto" runat="server" Text='<%#Eval("foto") %>'></asp:Label>
-                                <br />
+                                
                                <!-- <span class="letras_cuadro">Categoría: </span>
                                 <br />
                                 <asp:Label ID="lblCategoria" runat="server" Text='<#Eval("categorias") %>'></asp:Label>-->

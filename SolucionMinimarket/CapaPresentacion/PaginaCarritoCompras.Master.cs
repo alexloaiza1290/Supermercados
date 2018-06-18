@@ -14,14 +14,14 @@ namespace CapaPresentacion
        
         protected void Page_Load(object sender, EventArgs e)
         {
-            //if (Session["cli"].ToString()=="")
-            //{
-            //    lblNombreCliente.Visible = false;
-            //}
-            //else
-            //{
-            //    lblNombreCliente.Text = "Bienvenido: " + Session["cli"].ToString();
-            //}
+            if (Session["cli"].ToString() == "")
+            {
+                lblNombreCliente.Visible = false;
+            }
+            else
+            {
+                lblNombreCliente.Text = "Bienvenido: " + Session["cli"].ToString();
+            }
 
         }
        

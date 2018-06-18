@@ -5,7 +5,6 @@ D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarke
 D:\Proyecto 3\Trabajo\Minimarker\Minimarker\ProyectoMinimarket\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.pdb
 C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\bin\Debug\CapaEntidad.dll
 C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\bin\Debug\CapaEntidad.pdb
-C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache
 C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.pdb

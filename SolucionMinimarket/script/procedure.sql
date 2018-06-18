@@ -100,7 +100,7 @@ where id_cliente=p_id;
 -- procedimiento para productos
 
 create procedure sp_listar_catalogo_productos()
-select p.id_producto,p.nombre, p.descripcion,p.puntos,p.stock,p.foto,c.nombre
+select p.id_producto,p.nombre, p.descripcion,p.puntos,p.foto,p.stock,c.nombre
 from productos p
 inner join categorias c
 on p.id_categoria=c.id_categoria;
@@ -109,6 +109,10 @@ create procedure sp_listar_productos()
 select id_producto,nombre, descripcion,puntos,stock from productos;
 
 
+<br />
+                                <span class="letras_cuadro">Foto:</span>
+                                <asp:Label ID="lblFoto" runat="server" Text='<%#Eval("foto") %>'></asp:Label>
+                                <br />
 
 create procedure sp_insertar_producto(
 p_nombre varchar(100),
