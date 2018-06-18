@@ -1,3 +1,4 @@
+drop database canje;
 create database canje;
 use canje;
 

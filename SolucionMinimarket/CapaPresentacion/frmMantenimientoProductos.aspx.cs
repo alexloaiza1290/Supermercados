@@ -30,6 +30,7 @@ namespace CapaPresentacion
         public void CargarCategoria()
         {
             dt = NegCat.ListarCategoria();
+            //lstCategoria = NegCat.ListarCategorias();
             ddlCategoria.DataSource = dt;
             ddlCategoria.DataTextField = "nombre";
             ddlCategoria.DataValueField = "id_categoria";
@@ -54,7 +55,11 @@ namespace CapaPresentacion
             p.Puntos = Convert.ToDouble(txtPrecio.Text);
             p.Stock = Convert.ToInt32(txtStock.Text);
             p.Foto = txtFoto.Text;
-            p.Categoria.Id = 1;// Convert.ToInt32( ddlCategoria.SelectedValue.ToString());
+            //Categoria cat=new Categoria();
+            //cat.Id = Convert.ToInt32(ddlCategoria.SelectedValue.ToString());
+            //p.Categoria = cat;
+            p.Categoria = new Categoria() {Id = Convert.ToInt32(ddlCategoria.SelectedValue.ToString()) };
+           // p.Categoria  = Convert.ToInt32(ddlCategoria.SelectedValue.ToString());
         }
 
         public int nuevoProd()
@@ -128,6 +133,9 @@ namespace CapaPresentacion
             txtFoto.Text = "";
         }
 
-      
+        protected void ddlCategoria_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            //lblPrueba.Text = ddlCategoria.SelectedValue.ToString();
+        }
     }
 }

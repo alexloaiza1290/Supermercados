@@ -92,7 +92,7 @@
                         <asp:Label ID="Label11" runat="server" Text="Categoría:"></asp:Label>
                     </td>
                     <td class="auto-style16">
-                        <asp:DropDownList ID="ddlCategoria" runat="server" style="margin-left: 0px" AutoPostBack="True" Height="30px" Width="300px" CssClass="form-control">
+                        <asp:DropDownList ID="ddlCategoria" runat="server" style="margin-left: 0px" AutoPostBack="True" Height="30px" Width="300px" CssClass="form-control" OnSelectedIndexChanged="ddlCategoria_SelectedIndexChanged">
                         </asp:DropDownList>
                     </td>
                     <td rowspan="3">
@@ -138,6 +138,9 @@
                     </td>
                     <td colspan="2">
                         <asp:Label ID="Label10" runat="server" Text="Stock:"></asp:Label>
+                    </td>
+                    <td colspan="2">
+                        <asp:Label ID="lblPrueba" runat="server" Text="prueba:"></asp:Label>
                     </td>
                     <td class="auto-style16">
                         <asp:TextBox ID="txtStock" runat="server" Height="30px" Width="73px" CssClass="form-control"></asp:TextBox>
