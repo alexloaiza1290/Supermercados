@@ -24,10 +24,6 @@ namespace CapaNegocio
         {
             return da.ListarCategorias();
         }
-        public DataTable ListarCategoria()
-        {
-            return da.ListarCategoria();
-        }
         public Categoria BuscarCategoriaCodigo(int cod)
         {
             return da.BuscarCategoriaCodigo(cod);

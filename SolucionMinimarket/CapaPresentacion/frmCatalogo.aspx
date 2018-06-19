@@ -37,7 +37,7 @@
                                 <img alt="Producto" src="imagenes/<%# Eval("Foto")%>" width="150" class="img-responsive" />
                             </td>
                             <td style="border:none"><span class="letras_cuadro">Codigo:</span>
-                                <span class="letras_cuadroSut"><asp:Label ID="lblIdProducto" runat="server"  Text='<%#Eval("id_producto") %>'></asp:Label></span>
+                                <span class="letras_cuadroSut"><asp:Label ID="lblIdProducto" runat="server"  Text='<%#Eval("id") %>'></asp:Label></span>
                                 <br />
                                 <span class="letras_cuadro">Nombres:</span>
                                 <asp:Label ID="lblNombre" runat="server" Text='<%#Eval("nombre") %>'></asp:Label>

@@ -14,12 +14,12 @@ namespace CapaPresentacion
     public partial class frmMantenimientoCategoria : System.Web.UI.Page
     {
         CategoriaBL negCat = new CategoriaBL();
-        DataTable dt = new DataTable();
         Categoria c = new Categoria();
         private void CargarCategoria()
         {
-            dt = negCat.ListarCategoria();
-            grvDatos.DataSource = dt;
+            List<Categoria> lstCategoria = new List<Categoria>();
+            lstCategoria = negCat.ListarCategorias();
+            grvDatos.DataSource = lstCategoria;
             grvDatos.DataBind();
         }
         protected void Page_Load(object sender, EventArgs e)

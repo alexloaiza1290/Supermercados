@@ -19,14 +19,11 @@ namespace CapaNegocio
         {
             return da.ActualizarCliente(cli);
         }
-        //public List<Cliente> ListarCliente()
-        //{
-        //    return da.ListarCliente();
-        //}
-        public DataTable ListarCliente()
+        public List<Cliente> ListarCliente()
         {
             return da.ListarCliente();
         }
+
         public Cliente BuscarClienteCodigo(int cod)
         {
             return da.BuscarClienteCodigo(cod);

@@ -179,7 +179,7 @@
                 <asp:GridView ID="grvDatos" runat="server" Width="100%" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None" CssClass="mGrid">
                     <AlternatingRowStyle BackColor="White" />
                     <Columns>
-                        <asp:BoundField DataField="id_producto" HeaderText="Código" >
+                        <asp:BoundField DataField="id" HeaderText="Código" >
                         <HeaderStyle HorizontalAlign="Center" />
                         </asp:BoundField>
                         <asp:BoundField DataField="nombre" HeaderText="Nombre" />

@@ -143,7 +143,7 @@ namespace CapaPresentacion
                         detalle.Producto.Id = Convert.ToInt32(grvPedido.Rows[i].Cells[0].Text);
                         detalle.Cantidad = System.Convert.ToInt32(((TextBox)this.grvPedido.Rows[i].Cells[3].FindControl("txtCantidad")).Text);
                         detalle.Puntos = Convert.ToInt32(grvPedido.Rows[i].Cells[2].Text);
-                        detalle.Importe = detalle.Cantidad * detalle.Puntos;
+                        detalle.TotalCanje = detalle.Cantidad * detalle.Puntos;
                         //*****Actualizar Stock
                         int resul;                       
                        // int codProd = Convert.ToInt32(detalle.Id);

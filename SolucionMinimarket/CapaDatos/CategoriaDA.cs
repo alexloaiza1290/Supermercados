@@ -61,21 +61,6 @@ namespace CapaDatos
             connection.Close();
             return lstCategoria;
         }
-        public DataTable ListarCategoria()
-        {
-            DataTable dtDatos = new DataTable();
-
-            // Se crea un MySqlAdapter para obtener los datos de la base
-            MySqlDataAdapter mdaDatos = new MySqlDataAdapter("sp_listar_categoria", connection);
-
-            // Con la información del adaptador se rellena el DataTable
-            mdaDatos.Fill(dtDatos);
-            
-
-            connection.Close();
-            //se devuelde un datatable con los datos contenidos
-            return dtDatos;
-        }
         public Categoria BuscarCategoriaCodigo(int cod)
         {
             Categoria cat = new Categoria();

@@ -11,7 +11,6 @@ namespace CapaEntidad
      public Producto Producto { get; set; }
      public int Cantidad { get; set; }
      public int Puntos { get; set; }
-     public double Descuento { get; set; }
-     public double Importe { get; set; }
+     public int TotalCanje { get; set; }
     }
 }

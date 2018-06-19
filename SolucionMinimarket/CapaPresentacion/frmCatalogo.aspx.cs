@@ -21,8 +21,8 @@ namespace CapaPresentacion
 
         private void CargarCatalogo()
         {
-            //lstProd = negProd.ListarCatalogoProductos();
-            dt = negProd.ListarCatalogoProductos();
+            lstProd = negProd.ListarCatalogoProductos();
+            //dt = negProd.ListarCatalogoProductos();
             //var lista = from item in lstProd
             //            select new
             //            {
@@ -34,7 +34,7 @@ namespace CapaPresentacion
             //                item.Foto,
             //               Categorias= item.Categoria.Nombre  
             //            };
-            DataList1.DataSource = dt;
+            DataList1.DataSource = lstProd;
             DataList1.DataBind();
         }
         private void CargarDetalle()

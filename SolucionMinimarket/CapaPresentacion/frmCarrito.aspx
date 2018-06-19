@@ -24,7 +24,7 @@
         <asp:GridView ID="grvPedido" runat="server" AutoGenerateColumns="False" Width="100%" CellPadding="4" ForeColor="#333333" GridLines="None" OnRowDeleting="grvPedido_RowDeleting" CssClass="mGrid">
             <AlternatingRowStyle BackColor="White" />
             <Columns>
-                <asp:BoundField DataField="id_detalle_pedido" HeaderText="Codigo" >
+                <asp:BoundField DataField="id" HeaderText="Codigo" >
                 <ItemStyle HorizontalAlign="Center" />
                 </asp:BoundField>
                 <asp:BoundField DataField="descripcion" HeaderText="Descripción" />

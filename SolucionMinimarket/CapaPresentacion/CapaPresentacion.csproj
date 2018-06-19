@@ -93,6 +93,7 @@
     <Content Include="frmMantenimientoCategoria.aspx" />
     <Content Include="frmMantenimientoProductos.aspx" />
     <Content Include="frmPrincipal.aspx" />
+    <Content Include="frmRegistroCliente.aspx" />
     <Content Include="imagenes\Aceite.jpg" />
     <Content Include="imagenes\arroz.jpg" />
     <Content Include="imagenes\Atun.jpg" />
@@ -209,6 +210,13 @@
     </Compile>
     <Compile Include="frmPrincipal.aspx.designer.cs">
       <DependentUpon>frmPrincipal.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroCliente.aspx.cs">
+      <DependentUpon>frmRegistroCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmRegistroCliente.aspx.designer.cs">
+      <DependentUpon>frmRegistroCliente.aspx</DependentUpon>
     </Compile>
     <Compile Include="PaginaCarritoCompras.Master.cs">
       <DependentUpon>PaginaCarritoCompras.Master</DependentUpon>

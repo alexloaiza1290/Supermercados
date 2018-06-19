@@ -50,22 +50,34 @@ namespace CapaDatos
 
             return 1;
         }
-        //public List<Cliente> ListarCliente()
-        //{
-        //    List<Cliente> lstCliente = new List<Cliente>();
-        
-        //   return lstCliente;
-        //}
-
-        public DataTable ListarCliente()
+        public List<Cliente> ListarCliente()
         {
-            DataTable dt = new DataTable();
+           List<Cliente> lstCliente = new List<Cliente>();
             connection.Open();
-            MySqlDataAdapter sda = new MySqlDataAdapter("sp_listar_cliente",connection);
-            sda.Fill(dt);
+            MySqlCommand cmd = new MySqlCommand("sp_listar_clientes",connection);
+            cmd.CommandType = CommandType.StoredProcedure;
+            MySqlDataReader dataReader = cmd.ExecuteReader();
+
+            if (dataReader.HasRows)
+            {
+                while (dataReader.Read())
+                {
+                    Cliente cliente = new Cliente();
+                    cliente.Id = Convert.ToInt32(dataReader["id_cliente"].ToString());
+                    cliente.Nombres = dataReader["nombres"].ToString();
+                    cliente.Apellidos = dataReader["apellidos"].ToString();
+                    cliente.Direccion = dataReader["direccion"].ToString();
+                    cliente.Telefono = dataReader["telefono"].ToString();
+                    cliente.Dni = dataReader["dni"].ToString();
+                    cliente.Email = dataReader["email"].ToString();
+                    cliente.Usuario = dataReader["usuario"].ToString();
+                    cliente.Clave = dataReader["clave"].ToString();
+                }
+            }
             connection.Close();
-            return dt;
-        } 
+           return lstCliente;
+        }
+
         public Cliente BuscarClienteCodigo(int cod)
         {
             Cliente cliente = new Cliente();
@@ -87,8 +99,8 @@ namespace CapaDatos
                     cliente.Telefono = dataReader["telefono"].ToString();
                     cliente.Dni = dataReader["dni"].ToString();
                     cliente.Email = dataReader["email"].ToString();
-                    cliente.Clave = dataReader["clave"].ToString();
                     cliente.Usuario = dataReader["usuario"].ToString();
+                    cliente.Clave = dataReader["clave"].ToString();
                 }
                 
             }
@@ -106,25 +118,6 @@ namespace CapaDatos
             command.Parameters.AddWithValue("p_clave", cliente.Clave);
             command.ExecuteNonQuery();
 
-            MySqlDataReader dataReader = command.ExecuteReader();
-
-            if (dataReader.HasRows)
-            {
-                while (dataReader.Read())
-                {
-                    cliente.Id = Convert.ToInt32(dataReader["id_cliente"].ToString());
-                    cliente.Nombres = dataReader["nombre"].ToString();
-                    cliente.Apellidos = dataReader["apellido"].ToString();
-                    cliente.Direccion = dataReader["direccion"].ToString();
-                    cliente.Telefono = dataReader["telefono"].ToString();
-                    cliente.Dni = dataReader["dni"].ToString();
-                    cliente.Email = dataReader["email"].ToString();
-                    cliente.Clave = dataReader["clave"].ToString();
-                    cliente.Usuario = dataReader["usuario"].ToString();
-
-
-                }
-            }
             connection.Close();
             return cliente;
         }

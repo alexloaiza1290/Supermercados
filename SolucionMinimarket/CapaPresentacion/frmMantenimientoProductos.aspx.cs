@@ -21,19 +21,17 @@ namespace CapaPresentacion
 
         public void CargarProductos()
         {
-            //lstProducto = NegProd.ListarProducto();
-            ////dt = NegProd.ListarProductos();
-            //grvDatos.DataSource = lstProducto;
-            //grvDatos.DataBind();
+            lstProducto = NegProd.ListarProducto();
+            grvDatos.DataSource = lstProducto;
+            grvDatos.DataBind();
             //txtFoto.Text = FileUpload1.FileName;
         }
         public void CargarCategoria()
         {
-            dt = NegCat.ListarCategoria();
-            //lstCategoria = NegCat.ListarCategorias();
-            ddlCategoria.DataSource = dt;
+            lstCategoria = NegCat.ListarCategorias();
+            ddlCategoria.DataSource = lstCategoria;
             ddlCategoria.DataTextField = "nombre";
-            ddlCategoria.DataValueField = "id_categoria";
+            ddlCategoria.DataValueField = "id";
             ddlCategoria.DataBind();
         }
         protected void Page_Load(object sender, EventArgs e)

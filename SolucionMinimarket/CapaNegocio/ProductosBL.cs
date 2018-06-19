@@ -30,7 +30,7 @@ namespace CapaNegocio
             lstProducto = da.ListarProductos();
             return lstProducto;
         }
-        public DataTable ListarCatalogoProductos()
+        public List<Producto> ListarCatalogoProductos()
         {
             return da.ListarCatalogoProductos();
         }

@@ -19,9 +19,8 @@ namespace CapaPresentacion
 
         private void CargarClientes()
         {
-            //lstCliente = NegCliente.ListarCliente();
-            dt = negCliente.ListarCliente();
-            grvDatos.DataSource = dt;
+            lstCliente = negCliente.ListarCliente();
+            grvDatos.DataSource = lstCliente;
             grvDatos.DataBind();
         }
         private void AsignarClientes()

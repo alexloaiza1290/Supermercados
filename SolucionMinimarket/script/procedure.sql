@@ -5,8 +5,9 @@ create procedure sp_autenticar_clientes(
 p_usuario varchar(45),
 p_clave varchar(45)
 )
-select * from cliente where usuario=p_usuario and clave=p_clave;
+select nombres,apellidos from cliente where usuario=p_usuario and clave=p_clave;
 
+select * from cliente;
 create procedure sp_autenticar_usuarios(
 p_login varchar(50),
 p_password varchar(50)
@@ -109,10 +110,6 @@ create procedure sp_listar_productos()
 select id_producto,nombre, descripcion,puntos,stock from productos;
 
 
-<br />
-                                <span class="letras_cuadro">Foto:</span>
-                                <asp:Label ID="lblFoto" runat="server" Text='<%#Eval("foto") %>'></asp:Label>
-                                <br />
 
 create procedure sp_insertar_producto(
 p_nombre varchar(100),
@@ -126,3 +123,5 @@ insert into productos(nombre, descripcion,puntos,stock,foto,id_categoria)
 values (p_nombre,p_descripcion, p_puntos, p_stock, p_foto, p_id_categoria);
 
 
+select * from pedido;
+select * from detalle_pedido
