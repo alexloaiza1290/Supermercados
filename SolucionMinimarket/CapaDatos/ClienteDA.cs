@@ -54,7 +54,7 @@ namespace CapaDatos
         {
            List<Cliente> lstCliente = new List<Cliente>();
             connection.Open();
-            MySqlCommand cmd = new MySqlCommand("sp_listar_clientes",connection);
+            MySqlCommand cmd = new MySqlCommand("sp_listar_cliente",connection);
             cmd.CommandType = CommandType.StoredProcedure;
             MySqlDataReader dataReader = cmd.ExecuteReader();
 
@@ -107,17 +107,33 @@ namespace CapaDatos
             connection.Close();
           return cliente;
         }
-        public Cliente AutenticarCliente(Cliente cli)
+        public Cliente AutenticarCliente(string usuario, string clave)
         {
             Cliente cliente = new Cliente();
             connection.Open();
 
             MySqlCommand command = new MySqlCommand("sp_autenticar_clientes", connection);
             command.CommandType = CommandType.StoredProcedure;
-            command.Parameters.AddWithValue("p_usuario", cliente.Usuario);
-            command.Parameters.AddWithValue("p_clave", cliente.Clave);
+            command.Parameters.AddWithValue("p_usuario", usuario);
+            command.Parameters.AddWithValue("p_clave", clave);
             command.ExecuteNonQuery();
+            MySqlDataReader dataReader = command.ExecuteReader();
 
+            if (dataReader.HasRows)
+            {
+                while (dataReader.Read())
+                {                    
+                    //usu.Id = Convert.ToInt32(dataReader["id_usuario"].ToString());
+                    cliente.Usuario = dataReader["usuario"].ToString();
+                    cliente.Clave = dataReader["clave"].ToString();
+                    cliente.Nombres =  dataReader["nombres"].ToString() ;
+                    cliente.Apellidos = dataReader["apellidos"].ToString();
+
+
+
+
+                }
+            }
             connection.Close();
             return cliente;
         }

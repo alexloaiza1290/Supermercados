@@ -28,9 +28,9 @@ namespace CapaNegocio
         {
             return da.BuscarClienteCodigo(cod);
         }
-        public Cliente AutenticarCliente(Cliente cli)
+        public Cliente AutenticarCliente(string usuario, string clave)
         {
-            return da.AutenticarCliente(cli);
+            return da.AutenticarCliente(usuario, clave);
         }
         public int EliminarCliente(int cl)
         {

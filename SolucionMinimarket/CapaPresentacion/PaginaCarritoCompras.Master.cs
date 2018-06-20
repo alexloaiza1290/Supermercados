@@ -20,7 +20,7 @@ namespace CapaPresentacion
             }
             else
             {
-                lblNombreCliente.Text = "Bienvenido: " + Session["cli"].ToString();
+                lblNombreCliente.Text =  Session["cli"].ToString();
             }
 
         }

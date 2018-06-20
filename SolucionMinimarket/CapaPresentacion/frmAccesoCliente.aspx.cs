@@ -20,20 +20,18 @@ namespace CapaPresentacion
 
         protected void btnIngresar_Click(object sender, EventArgs e)
         {
-            Cliente ent = new Cliente();
-            ent.Usuario = txtUsuario.Text;
-            ent.Clave = txtPassword.Text;
-
-            ent = negCli.AutenticarCliente(ent);
-
-
-            if (ent.Nombres != "")
+            Cliente cliente1 = new Cliente();
+            Cliente cliente2 = new Cliente();
+            cliente1.Usuario = txtUsuario.Text;
+            cliente1.Clave = txtPassword.Text;
+            cliente2 = negCli.AutenticarCliente(txtUsuario.Text,txtPassword.Text);
+            if (cliente1.Usuario == cliente2.Usuario && cliente1.Clave == cliente2.Clave)
             {
-                Session["cli"] = ent.Nombres + " " + ent.Apellidos;
+                Session["cli"] = cliente1.Nombres + " " + cliente1.Apellidos;
                 Response.Redirect("/frmCatalogo.aspx");
             }
             else
-                Response.Redirect("/frmAccesoCliente.aspx");
+            Response.Redirect("/frmAccesoCliente.aspx");
 
         }
 

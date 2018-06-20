@@ -45,6 +45,7 @@ create table productos(
     );
     insert into productos (nombre, descripcion, puntos, stock, foto,id_categoria) 
     values ('leche evaporada','leche gloria de 500gr',1000,500,'pilsentrujillo.jpg',1);
+    
 create table empleado(
 	id_empleado int not null primary key auto_increment,
 	nombre varchar(50) null,

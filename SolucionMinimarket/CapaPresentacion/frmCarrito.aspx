@@ -24,7 +24,7 @@
         <asp:GridView ID="grvPedido" runat="server" AutoGenerateColumns="False" Width="100%" CellPadding="4" ForeColor="#333333" GridLines="None" OnRowDeleting="grvPedido_RowDeleting" CssClass="mGrid">
             <AlternatingRowStyle BackColor="White" />
             <Columns>
-                <asp:BoundField DataField="id" HeaderText="Codigo" >
+                <asp:BoundField DataField="codigo" HeaderText="Codigo" >
                 <ItemStyle HorizontalAlign="Center" />
                 </asp:BoundField>
                 <asp:BoundField DataField="descripcion" HeaderText="Descripción" />
@@ -61,14 +61,16 @@
             <SortedDescendingHeaderStyle BackColor="#4870BE" />
         </asp:GridView>
         <br />
-        <asp:Button ID="btnCalcular" runat="server" Text="Calcular Sub Total" OnClick="btnCalcular_Click"  CssClass="btn btn-warning"/> <span class="SubtituloCarrito"> cantidad de puntos: </span><span class="SubtituloCarritoMonto"><asp:Label ID="lblTotal" runat="server" ></asp:Label></span>
+        <asp:Button ID="btnCalcular" runat="server" Text="Calcular Sub Total" OnClick="btnCalcular_Click"  CssClass="btn btn-warning"/> <span class="SubtituloCarrito"> cantidad de puntos: </span><span class="SubtituloCarritoMonto">
+            <asp:Label ID="lblTotal" runat="server" ></asp:Label></span>
         <br />
     </div>
     <div>
         <br />
         <asp:Label ID="lblLetras" runat="server" CssClass="auto-style1"></asp:Label>
         <br />
-        <asp:ImageButton ID="ImageButton1" runat="server" Height="58px" ImageUrl="~/imagenes/boton-compra.png" Width="232px" OnClick="ImageButton1_Click" /><asp:Label ID="lblcompraSatisfactoria" runat="server"  class="SubtituloCarritoMonto"></asp:Label>
+        <asp:ImageButton ID="ImageButton1" runat="server" Height="58px" ImageUrl="~/imagenes/boton-compra.png" Width="232px" OnClick="ImageButton1_Click" />
+        <asp:Label ID="lblcompraSatisfactoria" runat="server"  class="SubtituloCarritoMonto"></asp:Label>
     </div>
     <div>
         <asp:GridView ID="grvPrueba" runat="server" CellPadding="4" ForeColor="#333333" GridLines="None" CssClass="mGrid">

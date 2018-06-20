@@ -14,3 +14,4 @@ C:\Users\camila\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\ob
 C:\Users\camila\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
 C:\Users\camila\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.dll
 C:\Users\camila\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.pdb
+C:\Users\alex\Documents\GitHub\Supermercados\SolucionMinimarket\CapaEntidad\obj\Debug\CapaEntidad.csprojAssemblyReference.cache

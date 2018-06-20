@@ -22,12 +22,12 @@ namespace CapaPresentacion
             u1.Login = this.txtUsuario.Text;
             u1.Passwd  = this.txtPassword.Text;
             u2 = objNeg.AutenticarUsuario(u1.Login, u1.Passwd);
-            var u3 = new Usuario();
+           
             u2 = objNeg.AutenticarUsuario(u2.Login,u2.Passwd);
 
             if (u1.Login == u2.Login && u1.Passwd == u2.Passwd)
             {
-                Session["Usuarios"] = u2.Empleado.Nombre;
+                Session["Usuarios"] = u2.Empleado.Nombre + " " + u2.Empleado.Apellido;
                 Response.Redirect("/frmMantenimientoCategoria.aspx");
             }
             else

@@ -30,13 +30,11 @@ namespace CapaDatos
             {
                 while (dataReader.Read())
                 {
-                    usu.Id = Convert.ToInt32(dataReader["id_usuario"].ToString());
+                    //usu.Id = Convert.ToInt32(dataReader["id_usuario"].ToString());
                     usu.Login = dataReader["login"].ToString();
                     usu.Passwd = dataReader["passwd"].ToString();
-                    usu.Empleado.Nombre = dataReader["apellido"].ToString();
-
-
-                }
+                    usu.Empleado = new Empleado { Nombre = dataReader["nombre"].ToString(), Apellido = dataReader["apellidos"].ToString()};
+                 }
             }
             connection.Close();
             return usu;

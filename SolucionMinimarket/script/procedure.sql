@@ -8,12 +8,25 @@ p_clave varchar(45)
 select nombres,apellidos from cliente where usuario=p_usuario and clave=p_clave;
 
 select * from cliente;
+ 
+
+
 create procedure sp_autenticar_usuarios(
 p_login varchar(50),
 p_password varchar(50)
 )
-select * from usuarios where login=p_login and passwd=p_password;
+select u.login,u.passwd, e.nombre, e.apellidos from usuarios u
+inner join empleado e on e.id_empleado = u.id_empleado
+where login=p_login and passwd=p_password;
 
+
+select p.id_producto,p.nombre, p.descripcion,p.puntos,p.foto,p.stock,c.nombre
+from productos p
+inner join categorias c
+on p.id_categoria=c.id_categoria;
+
+select * from empleado;
+select * from usuarios;
 -- Procedimientos almacenados para CRUD categoria
 create procedure sp_insertar_categoria(
 p_nombre varchar(50),
@@ -124,4 +137,8 @@ values (p_nombre,p_descripcion, p_puntos, p_stock, p_foto, p_id_categoria);
 
 
 select * from pedido;
-select * from detalle_pedido
+select * from detalle_pedido;
+
+select * from usuarios;
+
+select * from empleado;
