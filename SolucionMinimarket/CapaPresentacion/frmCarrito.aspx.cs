@@ -81,7 +81,7 @@ namespace CapaPresentacion
                         {
                             if (dr["Codigo"].ToString() == cod.ToString())
                             {
-                                dr["Cantidad"] = cant;
+                                //dr["Cantidad"] = cant;
                                 dr["Total"] = subtotal;
                                 break;
                             }
@@ -105,8 +105,8 @@ namespace CapaPresentacion
         {
             ped.Id = objNeg.GenerarCodPedido();
             numPedido = objNeg.GenerarCodPedido();
-            ped.Cliente.Id = idcliente;
-            ped.Empleado.Id = idEmpleado;
+            ped.Cliente = new Cliente { Id= idcliente };
+            ped.Empleado = new Empleado { Id = idEmpleado };
             ped.FechaPedido = DateTime.Now;
             ped.TotalPuntos = float.Parse(lblTotal.Text);
             int rpta = objNeg.InsertarPedido(ped);
@@ -129,31 +129,31 @@ namespace CapaPresentacion
                     stock = objProd.ConsultarStockProducto(codProd);
                     if (stock < CantProd)
                     {
-                       
+
                     }
                     else
                     {
                         detalle.Id = codDetalle;
-                        detalle.Pedido.Id = numPedido;
-                        detalle.Producto.Id = Convert.ToInt32(grvPedido.Rows[i].Cells[0].Text);
+                        detalle.Pedido = new Pedido { Id = numPedido };
+                        detalle.Producto = new Producto{Id=Convert.ToInt32(grvPedido.Rows[i].Cells[0].Text)};
                         detalle.Cantidad = System.Convert.ToInt32(((TextBox)this.grvPedido.Rows[i].Cells[3].FindControl("txtCantidad")).Text);
                         detalle.Puntos = Convert.ToInt32(grvPedido.Rows[i].Cells[2].Text);
                         detalle.TotalCanje = detalle.Cantidad * detalle.Puntos;
                         //*****Actualizar Stock
                         int resul;                       
-                       // int codProd = Convert.ToInt32(detalle.Id);
-                       //int CantProd = Convert.ToInt32(detalle.Cantidad);
-                        resul = objProd.ActualizarStock(codProd, CantProd);
+                        int codigoProducto = detalle.Id;
+                        int cantidadProducto = detalle.Cantidad;
+                        resul = objProd.ActualizarStock(codigoProducto, cantidadProducto);
                         lstDetalle.Add(detalle);
                         codDetalle++;
                     }
                    
                 }
                     
-                //detalle.Cantidad = System.Convert.ToInt32(((TextBox)this.grvPedido.Rows[i].Cells[3].FindControl("txtCantidad")).Text);
+                detalle.Cantidad = System.Convert.ToInt32(((TextBox)this.grvPedido.Rows[i].Cells[3].FindControl("txtCantidad")).Text);
                
             }
-            int rptadp;// = objNeg_Det.InsertarDetallePedido(lstDetalle);
+            objNeg_Det.InsertarDetallePedido(lstDetalle);
         }
 
         protected void ImageButton1_Click(object sender, ImageClickEventArgs e)
@@ -165,7 +165,7 @@ namespace CapaPresentacion
                 guardarPedido();
                 grvPrueba.DataSource = lstDetalle;
                 grvPrueba.DataBind();
-                lblcompraSatisfactoria.Text = "COMPRA REALIZADA CORRECTAMENTE";
+                lblcompraSatisfactoria.Text = "CANJE REALIZADO CORRECTAMENTE";
                 Session.Remove("pedido");
             }               
             else

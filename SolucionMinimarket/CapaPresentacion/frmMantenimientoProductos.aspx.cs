@@ -99,7 +99,7 @@ namespace CapaPresentacion
             txtStock.Text = pr.Stock.ToString();
             txtFoto.Text = pr.Foto;
             imgProducto.ImageUrl = "/imagenes/" + txtFoto.Text;
-            ddlCategoria.SelectedValue = pr.Categoria.Id.ToString();
+            //ddlCategoria.SelectedValue = pr.Categoria.Id.ToString();
 
         }
 

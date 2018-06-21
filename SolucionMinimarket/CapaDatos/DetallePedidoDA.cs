@@ -18,8 +18,8 @@ namespace CapaDatos
             foreach (DetallePedido item in LstDetPed)
             {
                 dtp.Id = item.Id;
-                dtp.Producto.Id = item.Producto.Id;
-                dtp.Pedido.Id = item.Pedido.Id;
+                dtp.Producto = new Producto{Id = item.Producto.Id};
+                dtp.Pedido = new Pedido { Id = item.Pedido.Id };
                 dtp.Cantidad = item.Cantidad;
                 dtp.Puntos = item.Puntos;
                 dtp.TotalCanje = item.TotalCanje;

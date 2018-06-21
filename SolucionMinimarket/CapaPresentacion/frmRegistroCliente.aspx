@@ -68,7 +68,7 @@
                         </td>
                         <td>
                             <asp:TextBox ID="txtDNI" runat="server" Width="260px" CssClass="form-control" Height="29px"></asp:TextBox>
-                            <asp:RequiredFieldValidator ID="RequiredFieldValidator7" runat="server" ErrorMessage="Ingresar DNI" style="color: #FF0000" ValidationGroup="insertar"></asp:RequiredFieldValidator>
+                            <asp:RequiredFieldValidator ID="RequiredFieldValidator7" runat="server" ControlToValidate="txtDNI" ErrorMessage="Ingresar DNI" style="color: #FF0000" ValidationGroup="insertar"></asp:RequiredFieldValidator>
                         </td>
                     </tr>
                     <tr style="height:50px;">

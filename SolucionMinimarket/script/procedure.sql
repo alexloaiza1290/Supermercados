@@ -135,9 +135,58 @@ p_id_categoria int
 insert into productos(nombre, descripcion,puntos,stock,foto,id_categoria) 
 values (p_nombre,p_descripcion, p_puntos, p_stock, p_foto, p_id_categoria);
 
+create procedure sp_actualizar_producto(
+p_id int,
+p_nombre varchar(100),
+p_descripcion varchar(100),
+p_puntos int,
+p_stock int,
+p_foto varchar(100),
+p_id_categoria int
+)
+update productos set nombre=p_nombre, descripcion=p_descripcion,puntos=p_puntos,
+stock=p_stock,foto=p_foto,id_categoria=p_id_categoria 
+where id_producto=p_id;
+
+
+
+
 select * from productos;
 create procedure sp_consultar_stock_producto
 (p_id int,
 out p_stock int)
 set p_stock = (select stock from productos where id_producto=p_id);
+use canje;
+select * from detalle_pedido ;
+create procedure sp_insertar_pedido(
+p_id_cliente int,
+p_id_empleado int,
+p_fecha_pedido datetime,
+p_total_puntos int)
+insert into pedido (id_cliente, id_empleado,fecha_pedido, total_puntos) 
+values (p_id_cliente,p_id_empleado,p_fecha_pedido,p_total_puntos);
+select * from detalle_pedido;
+create procedure sp_insertar_detalle_pedido(
+p_id_pedido int,
+p_id_producto int,
+p_cantidad int,
+p_punto_canje int,
+p_total_canje int
+)
+insert into detalle_pedido(id_producto,id_pedido,cantidad,punto_canje,total_canje) 
+values(p_id_producto,p_id_pedido,p_cantidad,p_punto_canje,p_total_canje);
 
+create procedure sp_actualizar_stock(
+p_id_producto int,
+p_cantidad int)
+update productos set stock = (stock - p_cantidad)
+where id_producto = p_id_producto;
+
+select * from productos;
+call sp_actualizar_stock(2,200); 
+
+select * from usuarios;
+
+create procedure sp_consultar_producto_codigo(
+p_id int)
+select * from productos where id_producto=p_id;

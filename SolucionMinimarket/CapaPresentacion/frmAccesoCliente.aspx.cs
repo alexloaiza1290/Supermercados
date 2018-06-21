@@ -31,7 +31,10 @@ namespace CapaPresentacion
                 Response.Redirect("/frmCatalogo.aspx");
             }
             else
-            Response.Redirect("/frmAccesoCliente.aspx");
+            {
+                Response.Redirect("/frmAccesoCliente.aspx");
+            }
+            
 
         }
 
