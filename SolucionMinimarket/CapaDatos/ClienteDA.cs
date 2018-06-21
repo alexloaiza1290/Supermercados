@@ -128,10 +128,7 @@ namespace CapaDatos
                     cliente.Clave = dataReader["clave"].ToString();
                     cliente.Nombres =  dataReader["nombres"].ToString() ;
                     cliente.Apellidos = dataReader["apellidos"].ToString();
-
-
-
-
+                   
                 }
             }
             connection.Close();

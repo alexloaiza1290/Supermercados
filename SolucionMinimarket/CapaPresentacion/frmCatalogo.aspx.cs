@@ -22,18 +22,6 @@ namespace CapaPresentacion
         private void CargarCatalogo()
         {
             lstProd = negProd.ListarCatalogoProductos();
-            //dt = negProd.ListarCatalogoProductos();
-            //var lista = from item in lstProd
-            //            select new
-            //            {
-            //               item.Id ,
-            //                item.Nombre,
-            //                item.Descripcion,
-            //                item.Puntos,
-            //                item.Stock,
-            //                item.Foto,
-            //               Categorias= item.Categoria.Nombre  
-            //            };
             DataList1.DataSource = lstProd;
             DataList1.DataBind();
         }

@@ -7,7 +7,7 @@ p_clave varchar(45)
 )
 select nombres,apellidos from cliente where usuario=p_usuario and clave=p_clave;
 
-select * from cliente;
+
  
 
 
@@ -135,10 +135,9 @@ p_id_categoria int
 insert into productos(nombre, descripcion,puntos,stock,foto,id_categoria) 
 values (p_nombre,p_descripcion, p_puntos, p_stock, p_foto, p_id_categoria);
 
+select * from productos;
+create procedure sp_consultar_stock_producto
+(p_id int,
+out p_stock int)
+set p_stock = (select stock from productos where id_producto=p_id);
 
-select * from pedido;
-select * from detalle_pedido;
-
-select * from usuarios;
-
-select * from empleado;

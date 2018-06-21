@@ -9,7 +9,6 @@ using CapaNegocio;
 using System.Data;
 using System.Data.SqlClient;
 
-
 namespace CapaPresentacion
 {
     public partial class frmCarrito : System.Web.UI.Page
@@ -48,15 +47,15 @@ namespace CapaPresentacion
         protected void btnCalcular_Click(object sender, EventArgs e)
         {
             int i;
-            double total = 0, prec, subtotal;
-            string cod, des, p;
+            double total = 0;
+            string cod, des, punt;
            
             var items = (DataTable)Session["pedido"];
             for (i = 0; i < grvPedido.Rows.Count; i++)
             {
                 cod = (grvPedido.Rows[i].Cells[0].Text);
                 des = grvPedido.Rows[i].Cells[1].Text;
-                p = grvPedido.Rows[i].Cells[2].Text;
+                punt = grvPedido.Rows[i].Cells[2].Text;
                 if (((TextBox)this.grvPedido.Rows[i].Cells[3].FindControl("txtCantidad")).Text == "" || Convert.ToInt32(((TextBox)this.grvPedido.Rows[i].Cells[3].FindControl("txtCantidad")).Text) <= 0)
                 {
                     cant = 0;
@@ -68,7 +67,7 @@ namespace CapaPresentacion
                     int resul;
                     ProductosBL objProd = new ProductosBL();
                     int codProd = Convert.ToInt32(grvPedido.Rows[i].Cells[0].Text);
-                    //int CantProd = Convert.ToInt32(detalle.Cantidad);
+                    int CantProd = Convert.ToInt32(detPed.Cantidad);
                     resul = objProd.ConsultarStockProducto(codProd);
                     if (resul<cant)
                     {
@@ -76,8 +75,7 @@ namespace CapaPresentacion
                     }
                     else
                     {
-                        prec = System.Convert.ToDouble(p);
-                        subtotal = cant * prec;
+                        int subtotal = cant * Convert.ToInt32(punt);
                         grvPedido.Rows[i].Cells[4].Text = subtotal.ToString();
                         foreach (DataRow dr in items.Rows)
                         {
@@ -92,10 +90,7 @@ namespace CapaPresentacion
                     }
                    
                 }
-                float igv, totPedido;
-                igv = float.Parse((total * 0.18).ToString());
-                totPedido = float.Parse((igv + total).ToString());
-                lblTotal.Text = total.ToString("0.00");
+                lblTotal.Text = total.ToString("0");
             }
 
                

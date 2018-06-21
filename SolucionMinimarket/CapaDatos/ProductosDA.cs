@@ -120,7 +120,12 @@ namespace CapaDatos
         public int ConsultarStockProducto(int cod)
         {
             int stock = 0;
-            
+            connection.Open();
+            MySqlCommand cmd = new MySqlCommand("sp_consultar_stock_producto",connection);
+            cmd.CommandType = CommandType.StoredProcedure;
+            cmd.Parameters.AddWithValue("p_id",cod);
+            stock=cmd.ExecuteNonQuery();
+            connection.Close();
             return stock;
         }
     }

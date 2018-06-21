@@ -27,7 +27,7 @@ namespace CapaPresentacion
             cliente2 = negCli.AutenticarCliente(txtUsuario.Text,txtPassword.Text);
             if (cliente1.Usuario == cliente2.Usuario && cliente1.Clave == cliente2.Clave)
             {
-                Session["cli"] = cliente1.Nombres + " " + cliente1.Apellidos;
+                Session["cli"] = cliente2.Nombres + " " + cliente2.Apellidos;
                 Response.Redirect("/frmCatalogo.aspx");
             }
             else
