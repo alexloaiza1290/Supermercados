@@ -115,7 +115,7 @@
                                         <asp:Button ID="btnBuscar" runat="server" CssClass="btn btn-primary" Text="Buscar"  OnClick="btnBuscar_Click" ValidationGroup="Identificar" />
                                     </td>
                                     <td>
-                                        <asp:Button ID="btnEliminar" runat="server" CssClass="btn btn-danger" Text="Eliminar"  OnClick="btnEliminar_Click" ValidationGroup="Identificar" />  
+                                        <asp:Button ID="btnEliminar" runat="server" CssClass="btn btn-danger" Text="Eliminar"  OnClick="btnEliminar_Click" ValidationGroup="Identificar" OnClientClick="return confirm('Esta seguro que desea eliminar?');"  />  
                                     </td>
                                 </tr>
                  </table>

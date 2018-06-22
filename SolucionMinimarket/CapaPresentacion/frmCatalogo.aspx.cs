@@ -85,6 +85,7 @@ namespace CapaPresentacion
 
         protected void btnCarrito_Click(object sender, EventArgs e)
         {
+            try { 
             if (Session["cli"].ToString() == "")
             {
                 Response.Redirect("/frmAccesoCliente.aspx");
@@ -94,6 +95,10 @@ namespace CapaPresentacion
             {
               Response.Redirect("/frmCarrito.aspx");           
 
+            }
+            }
+            catch (Exception) {
+                Response.Redirect("/frmAccesoCliente.aspx");
             }
         }
     }

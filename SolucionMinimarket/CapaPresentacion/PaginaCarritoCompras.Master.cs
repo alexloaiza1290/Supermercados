@@ -14,6 +14,7 @@ namespace CapaPresentacion
        
         protected void Page_Load(object sender, EventArgs e)
         {
+            try { 
             if (Session["cli"].ToString() == "")
             {
                 lblNombreCliente.Visible = false;
@@ -21,6 +22,10 @@ namespace CapaPresentacion
             else
             {
                 lblNombreCliente.Text =  Session["cli"].ToString();
+            }
+            }catch (Exception)
+            {
+                //Response.Redirect("/frmAccesoCliente.aspx");
             }
 
         }
